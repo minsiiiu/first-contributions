@@ -3161,6 +3161,7 @@ Emany Chiruza
 - [SeojeongHong](https://github.com/SeojeongHong)
 - [Karri Chaitanya Pratap Reddy](https://github.com/kcprdev)
 - [Sarvesh Deepak Mohite](https://github.com/CyberSarvesh)
+-  [minsiiiu](https://github.com/minsiiiu)
 - [Artemka](https://github.com/Artemka)
 - [Mikhail](https://github.com/2len)
 - [Surya](https://github.com/GSuryaP)
